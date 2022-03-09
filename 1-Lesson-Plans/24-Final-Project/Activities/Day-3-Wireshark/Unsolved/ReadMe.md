@@ -71,7 +71,6 @@ You must inspect your traffic capture to answer the following questions in your 
 5. What kind of malware is this classified as?
 
 #### Vulnerable Windows Machines
-## OPTIONAL SECTION
 
 The Security team received reports of an infected Windows host on the network. They know the following:
 - Machines in the network live in the range `172.16.4.0/24`.
@@ -92,7 +91,6 @@ Inspect your traffic to answer the following questions in your network report:
 
 
 #### Illegal Downloads
-## OPTIONAL SECTION
 
 IT was informed that some users are torrenting on the network. The Security team does not forbid the use of torrents for legitimate purposes, such as downloading operating systems. However, they have a strict policy against copyright infringement.
 
